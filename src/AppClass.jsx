@@ -26,7 +26,7 @@ export default class AppClass extends Component {
   };
 
   render() {
-    // code here
+    
     const images = this.imageData();
 
     const imageElements = [];
